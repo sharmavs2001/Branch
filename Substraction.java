@@ -7,14 +7,17 @@ public class Substraction {
 		// TODO Auto-generated method stub
 		
 
-
+/* Branch 2 */
 		
 		 Scanner sc= new Scanner(System.in);
-		 System.out.println("Addition - Enter 2 numbers!");
+		 System.out.println("  Enter 2 numbers!");
 		 int a= sc.nextInt();
 		 int b= sc.nextInt();
 
 		 System.out.println( " Addition = " + ( a + b ) );
+                  
+		  System.out.println( " Substraction = " + ( a - b ) );
+		System.out.println( " Division = " + ( a /b));
 		 
 		
 
